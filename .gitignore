@@ -1,0 +1,14 @@
+# generated data (large, reproducible with the generator)
+data/raw/
+data/processed/*.csv
+
+# python
+__pycache__/
+*.pyc
+.venv/
+.pytest_cache/
+
+# secrets: never commit credentials
+.env
+*.pem
+snowflake_config.*
