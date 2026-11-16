@@ -153,6 +153,18 @@ cd dashboard && npm install && npm start
 - Link footfall to sales data and forecast demand.
 - Add day-of-week and weather effects.
 
+## Progress Log
+### Week 1 (done)
+- Synthetic GPS ping generator with commute patterns (`data_generation/generate_pings.py`)
+- Data profile script and report (`data_generation/profile_pings.py`, `docs/data_profile.md`)
+- Data quality tests and requirements
+- Snowflake tables with GEOGRAPHY columns (`snowflake/create_tables.sql`)
+- Snowflake loader with credentials from environment variables (`snowflake/load_pings.py`)
+
+### Next (Week 2)
+- Apache Sedona job: 500 m catchments and spatial join
+- dbt models: unique visitors per store per hour
+
 ## 13. Author
 
 Abhinandan Naik, Data Analytics Intern, Infotact Solutions (Batch 22.1)
