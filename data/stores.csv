@@ -1,0 +1,3 @@
+store_id,store_name,status,lat,lon
+S1,Store A,existing,40.740,-73.980
+S2,Store B,candidate,40.750,-73.965
