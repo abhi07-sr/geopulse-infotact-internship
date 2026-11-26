@@ -1,0 +1,85 @@
+store_id,store_name,store_status,hour_of_day,unique_hourly_visitors,total_catchment_pings,avg_distance_from_center_m
+STORE_A_EXISTING,Store A - 5th Ave Commercial Flagship (Existing),EXISTING,0,35,36,241.1
+STORE_A_EXISTING,Store A - 5th Ave Commercial Flagship (Existing),EXISTING,1,16,16,232.8
+STORE_A_EXISTING,Store A - 5th Ave Commercial Flagship (Existing),EXISTING,2,25,27,242.1
+STORE_A_EXISTING,Store A - 5th Ave Commercial Flagship (Existing),EXISTING,3,16,17,293.3
+STORE_A_EXISTING,Store A - 5th Ave Commercial Flagship (Existing),EXISTING,4,35,37,251.6
+STORE_A_EXISTING,Store A - 5th Ave Commercial Flagship (Existing),EXISTING,5,67,79,256.8
+STORE_A_EXISTING,Store A - 5th Ave Commercial Flagship (Existing),EXISTING,6,107,148,249.7
+STORE_A_EXISTING,Store A - 5th Ave Commercial Flagship (Existing),EXISTING,7,311,516,275.4
+STORE_A_EXISTING,Store A - 5th Ave Commercial Flagship (Existing),EXISTING,8,679,1291,283.0
+STORE_A_EXISTING,Store A - 5th Ave Commercial Flagship (Existing),EXISTING,9,237,342,312.8
+STORE_A_EXISTING,Store A - 5th Ave Commercial Flagship (Existing),EXISTING,10,76,114,297.7
+STORE_A_EXISTING,Store A - 5th Ave Commercial Flagship (Existing),EXISTING,11,99,142,303.0
+STORE_A_EXISTING,Store A - 5th Ave Commercial Flagship (Existing),EXISTING,12,120,201,303.7
+STORE_A_EXISTING,Store A - 5th Ave Commercial Flagship (Existing),EXISTING,13,114,181,318.4
+STORE_A_EXISTING,Store A - 5th Ave Commercial Flagship (Existing),EXISTING,14,75,94,314.7
+STORE_A_EXISTING,Store A - 5th Ave Commercial Flagship (Existing),EXISTING,15,99,155,317.5
+STORE_A_EXISTING,Store A - 5th Ave Commercial Flagship (Existing),EXISTING,16,104,150,306.2
+STORE_A_EXISTING,Store A - 5th Ave Commercial Flagship (Existing),EXISTING,17,274,446,313.2
+STORE_A_EXISTING,Store A - 5th Ave Commercial Flagship (Existing),EXISTING,18,629,1124,288.1
+STORE_A_EXISTING,Store A - 5th Ave Commercial Flagship (Existing),EXISTING,19,265,414,278.6
+STORE_A_EXISTING,Store A - 5th Ave Commercial Flagship (Existing),EXISTING,20,137,208,264.4
+STORE_A_EXISTING,Store A - 5th Ave Commercial Flagship (Existing),EXISTING,21,118,166,261.7
+STORE_A_EXISTING,Store A - 5th Ave Commercial Flagship (Existing),EXISTING,22,89,114,263.1
+STORE_A_EXISTING,Store A - 5th Ave Commercial Flagship (Existing),EXISTING,23,64,74,280.2
+STORE_B_CANDIDATE,Store B - 5th Ave North Proposed (Candidate),PROPOSED_CANDIDATE,0,34,34,365.0
+STORE_B_CANDIDATE,Store B - 5th Ave North Proposed (Candidate),PROPOSED_CANDIDATE,1,18,20,340.6
+STORE_B_CANDIDATE,Store B - 5th Ave North Proposed (Candidate),PROPOSED_CANDIDATE,2,22,22,350.3
+STORE_B_CANDIDATE,Store B - 5th Ave North Proposed (Candidate),PROPOSED_CANDIDATE,3,24,24,350.5
+STORE_B_CANDIDATE,Store B - 5th Ave North Proposed (Candidate),PROPOSED_CANDIDATE,4,36,37,331.6
+STORE_B_CANDIDATE,Store B - 5th Ave North Proposed (Candidate),PROPOSED_CANDIDATE,5,49,57,325.1
+STORE_B_CANDIDATE,Store B - 5th Ave North Proposed (Candidate),PROPOSED_CANDIDATE,6,103,144,324.9
+STORE_B_CANDIDATE,Store B - 5th Ave North Proposed (Candidate),PROPOSED_CANDIDATE,7,410,660,317.2
+STORE_B_CANDIDATE,Store B - 5th Ave North Proposed (Candidate),PROPOSED_CANDIDATE,8,436,737,332.0
+STORE_B_CANDIDATE,Store B - 5th Ave North Proposed (Candidate),PROPOSED_CANDIDATE,9,84,125,355.3
+STORE_B_CANDIDATE,Store B - 5th Ave North Proposed (Candidate),PROPOSED_CANDIDATE,10,49,77,339.8
+STORE_B_CANDIDATE,Store B - 5th Ave North Proposed (Candidate),PROPOSED_CANDIDATE,11,49,65,367.1
+STORE_B_CANDIDATE,Store B - 5th Ave North Proposed (Candidate),PROPOSED_CANDIDATE,12,65,104,316.5
+STORE_B_CANDIDATE,Store B - 5th Ave North Proposed (Candidate),PROPOSED_CANDIDATE,13,60,94,331.4
+STORE_B_CANDIDATE,Store B - 5th Ave North Proposed (Candidate),PROPOSED_CANDIDATE,14,38,49,334.2
+STORE_B_CANDIDATE,Store B - 5th Ave North Proposed (Candidate),PROPOSED_CANDIDATE,15,53,79,344.5
+STORE_B_CANDIDATE,Store B - 5th Ave North Proposed (Candidate),PROPOSED_CANDIDATE,16,51,68,344.5
+STORE_B_CANDIDATE,Store B - 5th Ave North Proposed (Candidate),PROPOSED_CANDIDATE,17,87,141,349.6
+STORE_B_CANDIDATE,Store B - 5th Ave North Proposed (Candidate),PROPOSED_CANDIDATE,18,362,572,325.8
+STORE_B_CANDIDATE,Store B - 5th Ave North Proposed (Candidate),PROPOSED_CANDIDATE,19,386,551,324.1
+STORE_B_CANDIDATE,Store B - 5th Ave North Proposed (Candidate),PROPOSED_CANDIDATE,20,123,180,327.5
+STORE_B_CANDIDATE,Store B - 5th Ave North Proposed (Candidate),PROPOSED_CANDIDATE,21,116,155,336.7
+STORE_B_CANDIDATE,Store B - 5th Ave North Proposed (Candidate),PROPOSED_CANDIDATE,22,90,114,335.3
+STORE_B_CANDIDATE,Store B - 5th Ave North Proposed (Candidate),PROPOSED_CANDIDATE,23,65,77,318.3
+STORE_C_ALTERNATIVE,Store C - Tech Hub Outer Ring (Alternative),ALTERNATIVE_CANDIDATE,1,1,1,373.9
+STORE_C_ALTERNATIVE,Store C - Tech Hub Outer Ring (Alternative),ALTERNATIVE_CANDIDATE,6,1,1,343.0
+STORE_C_ALTERNATIVE,Store C - Tech Hub Outer Ring (Alternative),ALTERNATIVE_CANDIDATE,9,156,194,330.2
+STORE_C_ALTERNATIVE,Store C - Tech Hub Outer Ring (Alternative),ALTERNATIVE_CANDIDATE,10,273,377,292.0
+STORE_C_ALTERNATIVE,Store C - Tech Hub Outer Ring (Alternative),ALTERNATIVE_CANDIDATE,11,237,345,299.1
+STORE_C_ALTERNATIVE,Store C - Tech Hub Outer Ring (Alternative),ALTERNATIVE_CANDIDATE,12,327,504,300.8
+STORE_C_ALTERNATIVE,Store C - Tech Hub Outer Ring (Alternative),ALTERNATIVE_CANDIDATE,13,310,474,319.3
+STORE_C_ALTERNATIVE,Store C - Tech Hub Outer Ring (Alternative),ALTERNATIVE_CANDIDATE,14,256,362,314.2
+STORE_C_ALTERNATIVE,Store C - Tech Hub Outer Ring (Alternative),ALTERNATIVE_CANDIDATE,15,247,354,297.5
+STORE_C_ALTERNATIVE,Store C - Tech Hub Outer Ring (Alternative),ALTERNATIVE_CANDIDATE,16,257,382,290.1
+STORE_C_ALTERNATIVE,Store C - Tech Hub Outer Ring (Alternative),ALTERNATIVE_CANDIDATE,17,180,230,318.7
+STORE_C_ALTERNATIVE,Store C - Tech Hub Outer Ring (Alternative),ALTERNATIVE_CANDIDATE,22,1,1,375.1
+STORE_D_RESIDENTIAL,Store D - Garden Suburb Plaza (Existing),EXISTING,0,56,60,313.9
+STORE_D_RESIDENTIAL,Store D - Garden Suburb Plaza (Existing),EXISTING,1,32,35,356.6
+STORE_D_RESIDENTIAL,Store D - Garden Suburb Plaza (Existing),EXISTING,2,40,41,266.5
+STORE_D_RESIDENTIAL,Store D - Garden Suburb Plaza (Existing),EXISTING,3,33,37,254.4
+STORE_D_RESIDENTIAL,Store D - Garden Suburb Plaza (Existing),EXISTING,4,61,63,306.2
+STORE_D_RESIDENTIAL,Store D - Garden Suburb Plaza (Existing),EXISTING,5,103,120,298.7
+STORE_D_RESIDENTIAL,Store D - Garden Suburb Plaza (Existing),EXISTING,6,195,253,298.7
+STORE_D_RESIDENTIAL,Store D - Garden Suburb Plaza (Existing),EXISTING,7,293,456,292.7
+STORE_D_RESIDENTIAL,Store D - Garden Suburb Plaza (Existing),EXISTING,8,190,366,277.1
+STORE_D_RESIDENTIAL,Store D - Garden Suburb Plaza (Existing),EXISTING,9,121,201,309.2
+STORE_D_RESIDENTIAL,Store D - Garden Suburb Plaza (Existing),EXISTING,10,65,102,320.3
+STORE_D_RESIDENTIAL,Store D - Garden Suburb Plaza (Existing),EXISTING,11,63,91,309.9
+STORE_D_RESIDENTIAL,Store D - Garden Suburb Plaza (Existing),EXISTING,12,90,134,314.3
+STORE_D_RESIDENTIAL,Store D - Garden Suburb Plaza (Existing),EXISTING,13,81,114,318.2
+STORE_D_RESIDENTIAL,Store D - Garden Suburb Plaza (Existing),EXISTING,14,62,95,330.8
+STORE_D_RESIDENTIAL,Store D - Garden Suburb Plaza (Existing),EXISTING,15,71,103,323.0
+STORE_D_RESIDENTIAL,Store D - Garden Suburb Plaza (Existing),EXISTING,16,65,87,340.6
+STORE_D_RESIDENTIAL,Store D - Garden Suburb Plaza (Existing),EXISTING,17,132,223,306.0
+STORE_D_RESIDENTIAL,Store D - Garden Suburb Plaza (Existing),EXISTING,18,185,358,287.2
+STORE_D_RESIDENTIAL,Store D - Garden Suburb Plaza (Existing),EXISTING,19,240,359,302.1
+STORE_D_RESIDENTIAL,Store D - Garden Suburb Plaza (Existing),EXISTING,20,219,309,302.0
+STORE_D_RESIDENTIAL,Store D - Garden Suburb Plaza (Existing),EXISTING,21,182,230,293.1
+STORE_D_RESIDENTIAL,Store D - Garden Suburb Plaza (Existing),EXISTING,22,142,184,298.5
+STORE_D_RESIDENTIAL,Store D - Garden Suburb Plaza (Existing),EXISTING,23,119,145,296.7

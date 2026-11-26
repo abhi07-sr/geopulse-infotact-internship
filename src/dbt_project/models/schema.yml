@@ -1,0 +1,63 @@
+version: 2
+
+models:
+  - name: stg_gps_pings
+    description: "Cleansed and validated raw mobile GPS pings."
+    columns:
+      - name: device_id
+        description: "Anonymized unique device identifier."
+        tests:
+          - not_null
+      - name: ping_timestamp
+        description: "UTC timestamp of the telemetry ping."
+        tests:
+          - not_null
+      - name: latitude
+        description: "WGS84 latitude coordinate."
+        tests:
+          - not_null
+      - name: longitude
+        description: "WGS84 longitude coordinate."
+        tests:
+          - not_null
+
+  - name: stg_stores
+    description: "Retail store locations and corporate metadata."
+    columns:
+      - name: store_id
+        description: "Unique store identifier."
+        tests:
+          - unique
+          - not_null
+      - name: store_status
+        description: "EXISTING, PROPOSED_CANDIDATE, or ALTERNATIVE_CANDIDATE."
+        tests:
+          - not_null
+
+  - name: fct_hourly_footfall
+    description: "Aggregated hourly unique visitor counts and ping density per store catchment."
+    columns:
+      - name: store_id
+        description: "Unique store identifier."
+        tests:
+          - not_null
+      - name: hour_of_day
+        description: "Hour of day (0-23)."
+        tests:
+          - not_null
+
+  - name: fct_store_cannibalization
+    description: "Inter-store visitor cannibalization matrix and risk classification."
+    columns:
+      - name: existing_store_id
+        description: "Anchor existing store."
+        tests:
+          - not_null
+      - name: candidate_store_id
+        description: "Candidate store being evaluated."
+        tests:
+          - not_null
+      - name: cannibalization_pct
+        description: "Percentage of existing store devices captured by candidate store."
+        tests:
+          - not_null

@@ -1,0 +1,42 @@
+[
+  {
+    "store_id": "STORE_A_EXISTING",
+    "store_name": "Store A - 5th Ave Commercial Flagship (Existing)",
+    "status": "EXISTING",
+    "category": "Flagship Coffee & Retail",
+    "latitude": 12.975,
+    "longitude": 77.605,
+    "daily_target_revenue": 125000,
+    "description": "High-performing established flagship on the primary commuter corridor."
+  },
+  {
+    "store_id": "STORE_B_CANDIDATE",
+    "store_name": "Store B - 5th Ave North Proposed (Candidate)",
+    "status": "PROPOSED_CANDIDATE",
+    "category": "Express Coffee",
+    "latitude": 12.9785,
+    "longitude": 77.6075,
+    "daily_target_revenue": 85000,
+    "description": "Proposed new site ~450m north of Store A. Highly prone to cannibalizing Store A commuters."
+  },
+  {
+    "store_id": "STORE_C_ALTERNATIVE",
+    "store_name": "Store C - Tech Hub Outer Ring (Alternative)",
+    "status": "ALTERNATIVE_CANDIDATE",
+    "category": "Drive-Thru & Cafe",
+    "latitude": 12.9352,
+    "longitude": 77.6245,
+    "daily_target_revenue": 95000,
+    "description": "Alternative candidate site in an underserved tech park hub with independent foot traffic."
+  },
+  {
+    "store_id": "STORE_D_RESIDENTIAL",
+    "store_name": "Store D - Garden Suburb Plaza (Existing)",
+    "status": "EXISTING",
+    "category": "Neighborhood Cafe",
+    "latitude": 12.961,
+    "longitude": 77.585,
+    "daily_target_revenue": 70000,
+    "description": "Neighborhood residential cafe with steady weekend and evening traffic."
+  }
+]

@@ -1,0 +1,11 @@
+existing_store_id,existing_store_name,candidate_store_id,candidate_store_name,candidate_status,existing_store_total_devices,overlapping_device_count,cannibalization_pct,cannibalization_risk_tier
+STORE_B_CANDIDATE,Store B - 5th Ave North Proposed (Candidate),STORE_A_EXISTING,Store A - 5th Ave Commercial Flagship (Existing),EXISTING,790,765,96.84,HIGH_CANNIBALIZATION_RISK
+STORE_A_EXISTING,Store A - 5th Ave Commercial Flagship (Existing),STORE_B_CANDIDATE,Store B - 5th Ave North Proposed (Candidate),PROPOSED_CANDIDATE,888,765,86.15,HIGH_CANNIBALIZATION_RISK
+STORE_D_RESIDENTIAL,Store D - Garden Suburb Plaza (Existing),STORE_C_ALTERNATIVE,Store C - Tech Hub Outer Ring (Alternative),ALTERNATIVE_CANDIDATE,540,217,40.19,HIGH_CANNIBALIZATION_RISK
+STORE_C_ALTERNATIVE,Store C - Tech Hub Outer Ring (Alternative),STORE_D_RESIDENTIAL,Store D - Garden Suburb Plaza (Existing),EXISTING,541,217,40.11,HIGH_CANNIBALIZATION_RISK
+STORE_D_RESIDENTIAL,Store D - Garden Suburb Plaza (Existing),STORE_B_CANDIDATE,Store B - 5th Ave North Proposed (Candidate),PROPOSED_CANDIDATE,540,3,0.56,HEALTHY_INDEPENDENT_CAPTURE
+STORE_D_RESIDENTIAL,Store D - Garden Suburb Plaza (Existing),STORE_A_EXISTING,Store A - 5th Ave Commercial Flagship (Existing),EXISTING,540,3,0.56,HEALTHY_INDEPENDENT_CAPTURE
+STORE_B_CANDIDATE,Store B - 5th Ave North Proposed (Candidate),STORE_D_RESIDENTIAL,Store D - Garden Suburb Plaza (Existing),EXISTING,790,3,0.38,HEALTHY_INDEPENDENT_CAPTURE
+STORE_A_EXISTING,Store A - 5th Ave Commercial Flagship (Existing),STORE_D_RESIDENTIAL,Store D - Garden Suburb Plaza (Existing),EXISTING,888,3,0.34,HEALTHY_INDEPENDENT_CAPTURE
+STORE_C_ALTERNATIVE,Store C - Tech Hub Outer Ring (Alternative),STORE_A_EXISTING,Store A - 5th Ave Commercial Flagship (Existing),EXISTING,541,1,0.18,HEALTHY_INDEPENDENT_CAPTURE
+STORE_A_EXISTING,Store A - 5th Ave Commercial Flagship (Existing),STORE_C_ALTERNATIVE,Store C - Tech Hub Outer Ring (Alternative),ALTERNATIVE_CANDIDATE,888,1,0.11,HEALTHY_INDEPENDENT_CAPTURE
