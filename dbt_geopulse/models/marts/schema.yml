@@ -1,0 +1,12 @@
+version: 2
+
+models:
+  - name: hourly_footfall
+    description: Hourly unique visitors per store within the catchment radius.
+    columns:
+      - name: store_id
+        tests: [not_null]
+      - name: hour_ts
+        tests: [not_null]
+      - name: unique_visitors
+        tests: [not_null]

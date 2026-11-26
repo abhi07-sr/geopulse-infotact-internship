@@ -1,0 +1,9 @@
+version: 2
+
+sources:
+  - name: raw
+    database: GEOPULSE
+    schema: RAW
+    tables:
+      - name: pings
+      - name: stores

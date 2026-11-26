@@ -1,0 +1,17 @@
+name: geopulse
+version: "1.0.0"
+config-version: 2
+profile: geopulse
+
+model-paths: ["models"]
+test-paths: ["tests"]
+
+vars:
+  catchment_m: 500
+
+models:
+  geopulse:
+    staging:
+      +materialized: view
+    marts:
+      +materialized: table
